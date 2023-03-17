@@ -1,0 +1,24 @@
+***  Installation Started 11/13/2020 8:49  ***
+Title: 串口通信调试助手ComTools v5.21 安装
+Source: D:\工具\netassist\pconline1550065485490\串口通信调试助手v5.21.EXE | 02-13-2019 | 21:44:46 | 2092540
+Made Dir: D:\工具\netassist\COMTOOLS
+File Copy: D:\工具\netassist\COMTOOLS\UNWISE.EXE | 08-08-2002 | 23:40:48 | | 153088 | 833b8ad1
+RegDB Key: Software\Microsoft\Windows\CurrentVersion\Uninstall\串口通信调试助手ComTools v5.21
+RegDB Val: 串口通信调试助手ComTools v5.21
+RegDB Name: DisplayName
+RegDB Root: 2
+RegDB Key: Software\Microsoft\Windows\CurrentVersion\Uninstall\串口通信调试助手ComTools v5.21
+RegDB Val: D:\工具\netassist\COMTOOLS\UNWISE.EXE D:\工具\netassist\COMTOOLS\INSTALL.LOG
+RegDB Name: UninstallString
+RegDB Root: 2
+File Copy: D:\工具\netassist\COMTOOLS\COMTOOL.exe | 05-17-2016 | 19:49:28 | 1.0.0.1 | 278528 | e1fe407f
+File Copy: D:\工具\netassist\COMTOOLS\inst.exe | 05-21-2016 | 04:58:04 | | 1371136 | 1393986
+File Copy: D:\工具\netassist\COMTOOLS\uninst.exe | 05-21-2016 | 04:58:04 | | 1367552 | 697b1f33
+File Copy: D:\工具\netassist\COMTOOLS\update.exe | 05-21-2016 | 04:58:04 | | 654336 | ee928823
+File Copy: D:\工具\netassist\COMTOOLS\介绍.txt | 05-17-2016 | 19:58:26 | | 429 | 65b23693
+Shell Link: C:\Users\wanji\AppData\Roaming\Microsoft\Windows\Start Menu\Programs\串口工具\串口通信调试助手.lnk
+Link Info: D:\工具\netassist\COMTOOLS\COMTOOL.exe |  |  | 0 | 1 | 0 | 
+Shell Link: C:\Users\wanji\AppData\Roaming\Microsoft\Windows\Start Menu\Programs\串口工具\卸载.lnk
+Link Info: D:\工具\netassist\COMTOOLS\UNWISE.EXE |  |  | 0 | 1 | 0 | 
+INI New: Created INI
+User Rights: Admin

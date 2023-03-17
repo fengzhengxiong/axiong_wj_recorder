@@ -1,0 +1,16 @@
+软件名称：  串口通信调试助手ComTools 5.21
+下载地址：  http://www.rongchuantown.com/downloads/commtools5.21.zip
+软件版本：  V5.21
+软件大小：  1,115 KB
+软件语言：  简体中文
+软件类别：  网络工具 / 系统工具
+应用平台：  Win9x/NT/2000/XP/win7/8/9/10
+界面预览：  无
+
+联 系 人：   
+开 发 商：  
+
+串口通信调试助手ComTools是功能齐全,操作方便的串口调试工具,是单片机通讯开发的最佳助手! 
+
+主页：http://www.rongchuantown.com/
+
